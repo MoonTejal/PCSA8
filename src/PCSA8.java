@@ -8,6 +8,11 @@ public class PCSA8 {
            
            System.out.println("JJIIE");
 		System.out.println("GOOD NIGHT");
+		
+		
+		System.out.println("BYYBYBY");
+		
+		System.out.println("Hellollll");
 	}
 
 }

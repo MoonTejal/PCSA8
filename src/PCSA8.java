@@ -1,5 +1,6 @@
 
-public class PCSA8 {
+public class PCSA8 
+{
 
 	public static void main(String[] args) 
 	{
